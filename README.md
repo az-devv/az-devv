@@ -8,7 +8,7 @@ I'm a beginnner programmer based in the USA. I enjoy coding and creating program
 
 ## 👇 &nbsp;Current project
 
-I'm currently working on [Advertising+](https://discord.com/invite/kKTA6Cez3U), a Discord server where I am working on automated advertising to help you grow your server.
+I'm currently working on [Advertising+](https://discord.com/invite/kKTA6Cez3U), an automated advertising Discord server made with the goal to help you grow your server.
 
 &nbsp;
 
