@@ -6,9 +6,11 @@ I'm a beginnner programmer based in the USA. I enjoy coding and creating program
 
 &nbsp;
 
-## 👇 &nbsp;Current project
+## 👇 &nbsp;Current project(s)
 
 I'm currently working on [Advertising+](https://discord.com/invite/kKTA6Cez3U), an automated advertising Discord server made with the goal to help you grow your server.
+
+I am also working on an Advertisement Utility bot, the source code most likely will remain private, but some of it's features will include: purging ads from users not in server, deleting back2back advertisements, ping on join welcome messages, advertising reminders, auto-ad posting, and more.
 
 &nbsp;
 
