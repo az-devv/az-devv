@@ -4,7 +4,7 @@
 
 I'm a beginnner programmer based in the USA. I enjoy coding and creating programs to help automate tasks in my everyday life. At the moment I only know Python, basic HTML + CSS, and Java, but hope to learn more languages in the future.
 
-Discord: az#7777
+Discord: az#7283
 
 &nbsp;
 
