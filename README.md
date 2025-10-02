@@ -2,17 +2,10 @@
 
 # 👋 &nbsp; Hi there
 
-I'm a beginnner programmer based in the USA. I enjoy coding and creating programs to help automate tasks in my everyday life. At the moment I only know Python, basic HTML + CSS, and Java, but hope to learn more languages in the future.
+I am a programmer from the US.
 
 Discord: az.zz
 
-&nbsp;
-
-## 👇 &nbsp;Current project(s)
-
-I'm currently working on [Advertising+](https://discord.com/invite/kKTA6Cez3U), an automated advertising Discord server made with the goal to help you grow your server.
-
-I am also working on an Advertisement Utility bot, the source code most likely will remain private, but some of it's features will include: purging ads from users not in server, deleting back2back advertisements, ping on join welcome messages, advertising reminders, auto-ad posting, and more.
 
 &nbsp;
 
